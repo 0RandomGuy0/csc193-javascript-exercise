@@ -1,0 +1,21 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+fieldset{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+legend{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+textarea{
+    font-size: 1.2em;
+    resize: none;
+}
